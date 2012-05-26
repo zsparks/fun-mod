@@ -1,0 +1,21 @@
+On the surface, small projects do not seem to require any discipline or
+separation of parts. One person building a table or a bicycle might not
+separate each component; a backyard shed might be built all in one go; a
+small programming project might all go in one file, with no thought given to
+the structure of the code. When projects grow larger, however, it often
+becomes useful to separate the different components, \emph{modularizing} the
+structure of the project to meet the need at hand: bicycle manufacturers
+must manufacture parts according to certain specifications; houses are
+constructed by teams of people, each of whom assumes the others are doing
+their jobs properly; large code projects involve many people interacting
+through interfaces.
+
+Modularity does not only crop up when writing code, but it seems to be taken
+advantage of less in this area than in other, more well-explored domains.
+Not all programming languages have strong support for modular programming
+(such as C), and when they do, it is often presented as if it were
+inseparable from object oriented programming. While OO is often treated as
+the only paradigm that allows for modular programming, this is not true---it
+is possible to treat modularity in a modular way, without referring to a
+specific programming paradigm, and even without relying too heavily on
+programming languages as the domain to which we are applying it!
