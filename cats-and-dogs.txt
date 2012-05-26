@@ -8,12 +8,41 @@ Ideas that we've had so far:
 - Examples?
   - Adapt the Reynolds parametricity story
     - Probably don't want it to be about nerds 'n complex numbers
+  - sequences/Collections?
+    - Implemented as lists or arrays, perhaps?
+
+- Talk about good library design at some point?
+  - Don't want people to get overdependent on one set of nonstandard features
+
+- OH GOD SCALA ARTICLE D: D: D:
+  - we shouldn't hide things in jargon when possible to avoid
+
+- Definitely want separation between implementations & interfaces!
+
+- The point is to be able to reason statically about code
+  - Static methods? ewwwwww
+  - Express as much as possible with the type system
+    - The power of the ML type system!
+
+- Keep everything readable without having to look at the code examples
+  - Lots of pictures! Lots of prose! Lots of *good* pictures and prose!
 
 ===== OUTLINE =====
 
 Abstract should motivate modularity?
 
+not sure where to go: Reynolds-style example
+
 Intro: "Modularity Modulo Objects"
   - Assume people already *want* modularity
   - Answer the usual question "if you hate OO, how do you do modularity?"
   - Teach people that *modularity is not painful*
+  - William will write this part?
+
+EXTREME PROGRAM SOME EXAMPLES???!?!?!?
+
+Easy introduction: Collections
+  - Nonparametric: just collections of ints (for now)
+  - Tell the Reynolds-style story here?
+    - Include code/pictures inline to illustrate the points
+    - Bicycles? Bikes are modular!
