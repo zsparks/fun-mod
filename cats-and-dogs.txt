@@ -1,0 +1,19 @@
+Ideas that we've had so far:
+
+- Want to choose a language/languages to explain things in!
+  - Some kind of ML (SML or OCaml) for the legit module system
+  - Java too, for accessibility
+  - Haskell for the haskellers who care about this kind of thing
+
+- Examples?
+  - Adapt the Reynolds parametricity story
+    - Probably don't want it to be about nerds 'n complex numbers
+
+===== OUTLINE =====
+
+Abstract should motivate modularity?
+
+Intro: "Modularity Modulo Objects"
+  - Assume people already *want* modularity
+  - Answer the usual question "if you hate OO, how do you do modularity?"
+  - Teach people that *modularity is not painful*
