@@ -1,4 +1,4 @@
-Introduction
+Introduction (by wlovas)
 
 Here's a hypothetical conversation that takes place all the time and reveals
 fundamental confusions and misconceptions about modularity in programming:
