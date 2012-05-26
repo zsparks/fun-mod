@@ -1,0 +1,23 @@
+== By chrisamaphone
+
+Let's step back and consider why modularity is a useful concept more
+generally than in the setting of programming.
+
+When designing a complex artifact, let's say a bicycle, we want to break
+our understanding down into the consituent pieces. At the higher level, we
+reason about how the pieces fit together -- chains fit around gearboxes,
+wheels connect to the frame, seats attach to seatposts. At the lower level,
+we reason about the implementation of each part -- the configuration of
+spokes, the shape of the seat, the size of the frame.
+
+The assembly of such an artifact depends on certain <i>relative
+properties</i> of the constituent pieces in order to work, e.g. a frame's
+size might be incompatible with the size of the wheels. We care about the
+<i>interface</i> between functional parts: what properties of the
+low-level implementation of the wheel impact the high-level functionality?
+On the other hand, we <i>don't</i> care about internal structure, such as
+the configuration of the spokes or whether they're decorated with spoke
+beads. The high-level design may operate <i>parametrically</i> over such
+details.
+
+Parametricity goes hand-in-hand with modularity. 

@@ -1,0 +1,40 @@
+Introduction (by wlovas)
+
+Here's a hypothetical conversation that takes place all the time and reveals
+fundamental confusions and misconceptions about modularity in programming:
+
+  A: Ugh, this code is so annoying.  I hate Java!  All this OO nonsense..
+  B: What do you mean you hate Java and OO?  Modularity is so important!
+  A: Modularity *is* so important... so why does it have to be so painful?
+
+The purpose of this article is to convince you of several key facts:
+
+  - Modularity is *indeed* so important.
+  - Modularity is not the same thing as OO.
+  - Modularity can be expressed in many languages.
+  - Modularity *doesn't* have to be painful.
+
+We'll explore all of these ideas using real-world analogies and practical
+examples in a variety of programming languages.  Understanding the fundamentals
+of modularity will make you a better programmer, no matter what you program in
+or on.
+
+
+Brainstorming:
+
+- conversation about OO and modules
+- modularity is good
+- modularity is not painful
+- OO is not modularity
+- why are you writing in C?  modularity!
+  but ugh, java is so terrible...
+  but modularity is so important!
+- purpose: explain modularity and abstraction language-independently
+- examples written in many languages
+
+Abstract or Intro?  First section?
+
+- Reynolds example
+- large program, multiple people: swappable parts
+
+Need some examples of real things
